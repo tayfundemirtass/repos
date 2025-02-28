@@ -1,0 +1,14 @@
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\bin\Debug\net8.0\Ders1Console.exe
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\bin\Debug\net8.0\Ders1Console.deps.json
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\bin\Debug\net8.0\Ders1Console.runtimeconfig.json
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\bin\Debug\net8.0\Ders1Console.dll
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\bin\Debug\net8.0\Ders1Console.pdb
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\Ders1Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\Ders1Console.AssemblyInfoInputs.cache
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\Ders1Console.AssemblyInfo.cs
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\Ders1Console.csproj.CoreCompileInputs.cache
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\Ders1Console.dll
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\refint\Ders1Console.dll
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\Ders1Console.pdb
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\Ders1Console.genruntimeconfig.cache
+C:\Users\Tayfun\source\repos\Ders1Console\Ders1Console\obj\Debug\net8.0\ref\Ders1Console.dll
