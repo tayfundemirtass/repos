@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Veri_Tipi", "String_Veri_Tipi\String_Veri_Tipi.csproj", "{1758F871-2E97-44C9-968A-88E886CD3DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1758F871-2E97-44C9-968A-88E886CD3DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1758F871-2E97-44C9-968A-88E886CD3DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1758F871-2E97-44C9-968A-88E886CD3DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1758F871-2E97-44C9-968A-88E886CD3DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C427FD-BC5F-42A2-8FF1-F5236CFFD81E}
+	EndGlobalSection
+EndGlobal

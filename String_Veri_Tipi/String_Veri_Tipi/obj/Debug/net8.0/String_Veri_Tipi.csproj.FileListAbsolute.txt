@@ -1,0 +1,14 @@
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\bin\Debug\net8.0\String_Veri_Tipi.exe
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\bin\Debug\net8.0\String_Veri_Tipi.deps.json
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\bin\Debug\net8.0\String_Veri_Tipi.runtimeconfig.json
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\bin\Debug\net8.0\String_Veri_Tipi.dll
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\bin\Debug\net8.0\String_Veri_Tipi.pdb
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\String_Veri_Tipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\String_Veri_Tipi.AssemblyInfoInputs.cache
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\String_Veri_Tipi.AssemblyInfo.cs
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\String_Veri_Tipi.csproj.CoreCompileInputs.cache
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\String_Veri_Tipi.dll
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\refint\String_Veri_Tipi.dll
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\String_Veri_Tipi.pdb
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\String_Veri_Tipi.genruntimeconfig.cache
+C:\Users\Tayfun\source\repos\String_Veri_Tipi\String_Veri_Tipi\obj\Debug\net8.0\ref\String_Veri_Tipi.dll
